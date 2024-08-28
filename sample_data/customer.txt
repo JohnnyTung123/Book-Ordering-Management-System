@@ -1,0 +1,5 @@
+9999	Wong Sum Wai Cherie	Flat 48F, Block E, The Arles, Fo Tan, New Territories
+1234	Chan Ching Yan Rita	Unit 1, 2/F, 21 Borrett Road, Mid-Levels, Hong Kong Island
+5678	Tung Yuen Lok Johnny	Flat 2A, Block A, Pavillia Farm, Tai Wai, New Territories
+123	Taylor Chan	Room 1904, Kwong Lai House, Kwong Fuk Estate, Tai Po, New Territories
+567	Dominic.C	Flat 12A, Block C, Pavillia Farm, Tai Wai, New Territories
